@@ -68,7 +68,7 @@ section.imagem > p {
 }
 
 section#Mulher {
-    background-image: url(imagens/foto2.jpeg);
+    background-image: url(imagens/foto2.png);
     background-position: center;
 }
 
@@ -79,7 +79,7 @@ section#Flor {
 
 section#Maria {
     background-image: url(imagens/maria_Original.jpg);
-    background-position: center;
+    
 }
 
 section.normal {
