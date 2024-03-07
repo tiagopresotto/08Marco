@@ -67,6 +67,11 @@ section.imagem > p {
     text-shadow:  1px 1px 0px black;
 }
 
+section#Mulher {
+    background-image: url(imagens/foto1.jpeg);
+    background-position: center;
+}
+
 section#Flor {
     background-image: url(imagens/background001.jpg);
     background-position: right center;
