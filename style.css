@@ -23,7 +23,7 @@
 
 html,body {
     min-height: 100vh;
-    background-color: darkgray;
+    background-color: white;
     font-family: var(--fonte1);
 }
 
@@ -57,6 +57,8 @@ section {
 
 section > p {
     padding-bottom: 2em;
+    background-color: rgba(0, 0, 0, 0.542);
+    color: white;
 }
 
 section.imagem > p {
@@ -72,6 +74,7 @@ section#Mulher {
     background-repeat: no-repeat;
     background-size: contain;
     background-color: white;
+    margin: 0px;
 }
 
 section#Flor {
@@ -87,7 +90,6 @@ section#Maria {
     background-color: white;
     margin: 0%;
     background-position: center;
-    
 }
 
 section.normal {
